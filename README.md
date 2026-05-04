@@ -35,6 +35,11 @@
 
 <br>
 
+#### Looking for AI/ML Research or Engineering roles, where the gap between the theory and the applied ML is the problem to solve. Open to anything accross representation learning, multimodal systems, LLM-related , agentic and rag systems.
+
+<br>
+
+
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,21 +65,20 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+<br>
+
 ## Stats
 ![Stats](https://streak-stats.demolab.com/?user=hassen8&theme=synthwave&hide_border=true)
 
+<br>
 
 ## Publications
 
 📄 **Amharic ATS: Graph-Based vs. Statistical Extractive Summarization** · [IEEE Xplore 2023](https://ieeexplore.ieee.org/abstract/document/10114029)  
 📄 **Automatic Extractive Text Summarization for Ho Language** · [IEEE Xplore 2023](https://ieeexplore.ieee.org/document/10430990)
+  
 
-
---- 
-
-### Looking for AI/ML Research or Engineering roles, where the gap between the theory and the applied ML is the problem to solve. Open to anything accross representation learning, multimodal systems, LLM-related , agentic and rag systems.
-
----  
+## Quote
 
 ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
